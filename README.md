@@ -53,4 +53,4 @@ Desenvolvido por mim como parte dos desafios propostos na formação da DIO.
 
 ---
 
-🎮 Projeto simples, mas eficaz, para praticar conceitos do desenvolvimento Web principalmente na liguagem HTML
+🎮 Projeto simples, mas eficaz, para praticar conceitos do desenvolvimento Web, principalmente HTML
